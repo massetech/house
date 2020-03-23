@@ -18,6 +18,3 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
-
-Regex.scan(~r/data-href='\/en\/rent\/[0-9]*/,result.body)
-Enum.at(query,1)
